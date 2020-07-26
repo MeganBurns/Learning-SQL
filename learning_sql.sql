@@ -50,7 +50,13 @@ Selecting data from one or more tables is done using the SELECT statement.
 e.g.
 SELECT * FROM helloworld WHERE phrase = "Hello, World!";
 /*This statement will fetch all columns (hence the *) from the table helloworld, and filter the results only to the rows which the phrase 
-column is equal to Hello, World!.
+column is equal to Hello, World!.*/
+
+
+
+/*////SELECTING DATA////*/
+Selecting data is the foundation of SQL and can be used for querying anywhere from tiny amounts to huge amounts of data.
+
 
 
 
